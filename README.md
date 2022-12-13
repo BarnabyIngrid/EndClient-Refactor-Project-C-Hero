@@ -4,7 +4,7 @@
 
 ### Table of Contents
 Your section headers will be used to referecnce location of destination
--[The purpose ](#of the project is to refactor the an existing customers webpage to include HTML5 semantics to ensure)
+-The purpose of the project is to refactor the an existing customers webpage to include HTML5 semantics to ensure met the accessibility requirements.
 -[How to Use](#how-to-use)
 -[References](#references)
 -[License] (#license)
